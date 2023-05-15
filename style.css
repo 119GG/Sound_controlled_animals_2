@@ -1,0 +1,33 @@
+body
+{
+    font-family: 'Amatic SC', cursive;
+    background-color: rgb(169, 181, 209);    
+}
+
+.header_div
+{
+    background-color: rgb(73, 73, 113);
+    color: black;
+    font-size: larger;
+    word-spacing: 7;
+}
+
+.main_div
+{
+    margin-top: 50;
+    color: rgb(32, 32, 45);
+    font-weight: bolder;
+    word-spacing: 5;
+}
+
+.copy_right_footer
+{
+    background-color: rgb(73, 73, 113);
+    color: black;
+    text-align: center;
+    text-shadow: 10;
+    font-size: 25;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
